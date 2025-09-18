@@ -1,3 +1,3 @@
 test
 
-uprava textu od Marti
+uprava textu od Marti a Vaska
